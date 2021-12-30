@@ -35,7 +35,7 @@ footer {
 
 /* FOOTER */
 .footer--copywrite {
-    direction: rtl;
+    direction: ltr;
     font-size: 21px;
     color: grey;
     text-align: right;
