@@ -24,11 +24,19 @@ body {
 }
 
 footer {
-    color: purple;
+    color: aquamarine;
 }
 
 /* LINKS */
 .header--notmain {
     color: aquamarine;
     font-size: 16px;
+}
+
+/* FOOTER */
+.footer--copywrite {
+    direction: rtl;
+    font-size: 21px;
+    color: grey;
+    text-align: right;
 }
