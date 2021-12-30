@@ -10,3 +10,8 @@ body {
     font-size: 50px;
     color: #fff;
 }
+
+.header--notmain {
+    color: aquamarine;
+    font-size: 16px;
+}
