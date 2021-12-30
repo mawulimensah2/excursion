@@ -23,6 +23,10 @@ body {
     color: grey;
 }
 
+footer {
+    color: purple;
+}
+
 /* LINKS */
 .header--notmain {
     color: aquamarine;
